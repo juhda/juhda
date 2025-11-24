@@ -1,20 +1,21 @@
 # Hi, I'm Dávid Juhász 👋
 
-**Compiler & Systems Engineer**
+**Edge AI & Embedded Systems Engineer**
 
-Empowering Developer Tools, Embedded Platforms, and Complex Systems with Structured Insight, Clarity, and Purpose.
+Building Low-Power, Sustainable Edge AI Solutions—from Inference to Hardware Interfaces—with Structured Insight and Systems-Level Clarity.
 
 ---
 
 🔬 **Focus Areas:**
 
-- Compiler development and code generation (LLVM and beyond)
-- Embedded software and systems architecture
-- Runtime systems, system simulation, and hardware-software co-design
+- Edge AI systems (inference, preprocessing, hardware integration)
+- Embedded software and firmware for resource-constrained platforms
+- Developer tooling, including compiler and runtime systems
+- Hardware-software co-design and system architecture
 
 🛠️ **Philosophy:**
 
-Building robust, high-performance systems where hardware and software meet, with a focus on precision, reliability, and developer productivity.
+Creating robust, efficient systems where hardware and software meet, with a focus on precision, sustainability, and innovation—from evaluating new technologies to building solutions from a blank sheet.
 
 🌍 **Based in Europe, collaborating globally.**
 
@@ -34,12 +35,12 @@ If you're curious to learn more:
 
 **What types of projects are you interested in?**
 
-Building compilers, runtime systems, embedded software, system-level architectures, and high-performance developer tooling.
+Edge AI pipelines, embedded firmware, system-level architectures, and tools that enable efficient, sustainable computing.
 
 **Are you open to collaboration?**
 
-I'm always open to meaningful collaborations around compiler technology, embedded systems, simulation frameworks, or systems design.
+I'm always open to meaningful collaborations around edge AI, embedded systems, or systems design—reach out if you’re working on something impactful.
 
 **Where can I learn more about your work?**
 
-You can explore my personal website and portfolio for selected projects. <!--, or browse my GitHub profile for additional technical contributions and activities.-->
+You can explore my [personal website](https://davidjuhasz.dev) and [portfolio](https://davidjuhasz.dev/portfolio) for selected projects. <!--, or browse my [GitHub profile](https://github.com/juhda) for additional technical contributions and activities.-->
