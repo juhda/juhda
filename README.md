@@ -1,46 +1,23 @@
 # Hi, I'm Dávid Juhász 👋
 
-**Edge AI & Embedded Systems Engineer**
+**Software Engineer | Hardware-Software Co-Design & Tooling**
 
-Building Low-Power, Sustainable Edge AI Solutions—from Inference to Hardware Interfaces—with Structured Insight and Systems-Level Clarity.
-
----
-
-🔬 **Focus Areas:**
-
-- Edge AI systems (inference, preprocessing, hardware integration)
-- Embedded software and firmware for resource-constrained platforms
-- Developer tooling, including compiler and runtime systems
-- Hardware-software co-design and system architecture
-
-🛠️ **Philosophy:**
-
-Creating robust, efficient systems where hardware and software meet, with a focus on precision, sustainability, and innovation—from evaluating new technologies to building solutions from a blank sheet.
-
-🌍 **Based in Europe, collaborating globally.**
+I am a software engineer focused on bridging the gap between hardware capabilities and software execution. I'm particularly interested in building a **joint ecosystem for hardware and software design**, applying modern software engineering rigor to eliminate the inefficiencies of traditional handovers.
 
 ---
 
-📄 [View My Résumé](https://davidjuhasz.dev/resume-overview)
-•
-🌐 [Visit My Personal Website](https://davidjuhasz.dev)
-•
-🛠️ [Explore My Project Portfolio](https://davidjuhasz.dev/portfolio)
+### 🔬 Technical Interests
+* **Hardware-Software Co-Design:** Building the "bridge" infrastructure—compilers, simulators, and co-design frameworks.
+* **Low-Level Tooling:** Experience with LLVM, custom compiler passes, and developer tools that improve engineering feedback loops.
+* **Embedded Systems:** Firmware and system-level software for RISC-V and resource-constrained platforms.
+* **0-to-1 Architecture:** Establishing clear, holistic system designs and automated processes for new products from the ground up.
+
+### 🛠️ Philosophy
+I believe engineering clarity comes from tight feedback loops. My goal is to create environments where hardware and software can be developed as a unified system, reducing redundancy through better automation and formal methods.
 
 ---
 
-## 🔎 Frequently Asked
-
-If you're curious to learn more:
-
-**What types of projects are you interested in?**
-
-Edge AI pipelines, embedded firmware, system-level architectures, and tools that enable efficient, sustainable computing.
-
-**Are you open to collaboration?**
-
-I'm always open to meaningful collaborations around edge AI, embedded systems, or systems design—reach out if you’re working on something impactful.
-
-**Where can I learn more about your work?**
-
-You can explore my [personal website](https://davidjuhasz.dev) and [portfolio](https://davidjuhasz.dev/portfolio) for selected projects. <!--, or browse my [GitHub profile](https://github.com/juhda) for additional technical contributions and activities.-->
+## 🌐 Connect & Explore
+* 📝 **Read my blog:** [davidjuhasz.dev/blog](https://davidjuhasz.dev/blog)
+* 💼 **LinkedIn:** [in/juhaszdavid](https://www.linkedin.com/in/juhaszdavid/)
+* 🚀 **Open to:** Collaborating on remote-first deep tech, robotics, or RISC-V projects.
